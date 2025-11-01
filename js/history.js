@@ -1,3 +1,14 @@
+document.getElementById("Fire8").style.display="none";
+document.getElementById("Fire7").style.display="none";
+document.getElementById("Fire6").style.display="none";
+document.getElementById("Fire5").style.display="none";
+document.getElementById("Fire4").style.display="none";
+document.getElementById("Fire3").style.display="none";
+document.getElementById("Fire2").style.display="none";
+document.getElementById("Fire1").style.display="none";
+document.getElementById("Fire").style.display="none";
+
+
 
 document.getElementById("clear-btn").addEventListener("click",function(){
 document.getElementById("Fire").style.display="none";
